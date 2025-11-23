@@ -1,8 +1,8 @@
-//Nama - NIM
+//Eva Dahlia Panjaitan - 12S25047
 import java.util.*;
 import java.lang.Math;
 
-public class Program {
+public class TLAST {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -164,4 +164,3 @@ public class Program {
         return String.format("%." + digits + "f", value);
     }
 }
-
